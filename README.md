@@ -1,4 +1,5 @@
 
+![logo](https://miro.medium.com/v2/resize:fit:1400/1*oUAAR9fnsmpstFhqmZZ55g.gif)
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt  "coding width = "1000" src = "https://engineering.nyu.edu/sites/default/files/2021-09/bioinformatics-ms-main-hero-animated_0.gif">
@@ -39,3 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkbioinfo&" alt="pkbioinfo" /></p>
 
+<img align = "right" alt  "coding width = "1000" src ="https://static.wixstatic.com/media/3eee0b_b4da8d1e91894913bc06ad8a20448b78~mv2.gif">
