@@ -22,7 +22,7 @@
 
 - 💬 Programming Skills **Python, R , linux, Perl, shell scripting**
 
-- 📫 How to reach me **pktripathi.dbt@gmail.com**
+- 📫 How to reach me **tripathi.dbt@gmail.com**
 
 - 📄 Know about my experiences [NGS data analysis, Microarry Data anlysis](NGS data analysis, Microarry Data anlysis)
 
