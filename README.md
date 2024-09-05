@@ -1,7 +1,7 @@
 
 ![logo](https://miro.medium.com/v2/resize:fit:1400/1*oUAAR9fnsmpstFhqmZZ55g.gif)
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend Bioinformatics & Computational Biology from India</h3>
 <img align = "right" alt  "coding width = "1000" src = "https://engineering.nyu.edu/sites/default/files/2021-09/bioinformatics-ms-main-hero-animated_0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkbioinfo&label=Profile%20views&color=0e75b6&style=flat" alt="pkbioinfo" /> </p>
@@ -39,5 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkbioinfo&show_icons=true&locale=en" alt="pkbioinfo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkbioinfo&" alt="pkbioinfo" /></p>
+<img align = "right" alt  "coding width = "500" src ="https://static.wixstatic.com/media/3eee0b_b4da8d1e91894913bc06ad8a20448b78~mv2.gif">
 
-<img align = "right" alt  "coding width = "1000" src ="https://static.wixstatic.com/media/3eee0b_b4da8d1e91894913bc06ad8a20448b78~mv2.gif">
+
+
+
+>“Bioinformaticians transform raw data into the language of life, bridging the gap between biology and technology to unlock the secrets of our existence.”
