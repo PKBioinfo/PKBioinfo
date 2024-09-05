@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **tripathi.dbt@gmail.com**
 
-- 📄 Know about my experiences [NGS data analysis, Microarry Data anlysis](NGS data analysis, Microarry Data anlysis)
+- 📄 Know about my experiences [NGS data analysis, Microarry Data anlysis](NGS data analysis, Microarry Data anlysis]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
